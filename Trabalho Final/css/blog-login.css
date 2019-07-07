@@ -1,0 +1,29 @@
+.form-signin {
+    margin: 15% auto 0 auto;
+    padding: 25px;
+    border-radius: 10px;
+    /* background-color: #04B404; */
+}
+
+#logo {
+    width: 80px;
+    height: 102px;
+}
+
+.form-label-group {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+#inputEmail, #inputPassword {
+    width: 300px;
+}
+
+#botaoLogin {
+    margin-left: 15%;
+    width: 200px;
+}
+
+.text-center, .checkbox {
+    color: #ffffff;
+}

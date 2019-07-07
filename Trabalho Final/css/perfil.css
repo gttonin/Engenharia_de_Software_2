@@ -1,0 +1,16 @@
+a:link {
+    text-decoration:none;
+}
+
+.btn-editar-perfil {
+    color: #935e5b;
+}
+
+.txt-perfil {
+    font-size: 14px;
+}
+
+div + p {
+    text-decoration:none;
+    color: #935e5b;
+}

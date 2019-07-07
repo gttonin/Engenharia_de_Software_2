@@ -1,0 +1,24 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+ body, html {
+    padding-top: 15px;
+    height: 100%;
+ }
+
+ #wrapper{
+    min-height: 89%;
+    position: relative;
+}
+
+.content {
+    padding-top: 20px;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+}
